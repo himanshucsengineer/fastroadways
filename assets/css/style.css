@@ -1,0 +1,499 @@
+.last {
+ 
+    background-color: rgb( 44, 44, 44 );
+    width: 100%;
+    height: 140px;
+    padding-top: 20px;
+   }
+   
+   .last p {
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb( 255, 255, 255 );
+    text-transform: uppercase;
+    
+    text-align: center;
+    
+   }
+   .last .fa {
+    background-color: rgb( 44, 44, 44 );
+   color: white;
+   text-align: center;
+   
+   font-size: 15px;
+   border-style:solid;
+   border-color: rgb( 253, 55, 82 );
+   border-width: 1px;
+   padding-top: 4px;
+   margin: 0px 4px 10px 0px;
+   border-radius: 6px;
+   width: 26px;
+   height: 26px;
+   
+   }
+   .last a{
+      
+      margin-right: 8px;
+      margin-top: -10px;
+   }
+   .last .reserved {
+    font-size: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb( 226, 226, 226 );
+    line-height: 1.346;
+    text-align: center;
+   padding-bottom: 20px;
+   }
+   .last .lik{
+      float: none;
+      margin:none;
+      color: rgb( 253, 55, 82 ); 
+      text-transform: uppercase;
+      text-decoration: none;
+   
+   }
+   .last .lik:hover{
+      color: lightcoral;
+   }
+   
+   /* section last end */
+   .meu{
+     position: relative;
+     z-index: +2;
+     
+   }
+   .meu p{
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     color: rgb( 237, 237, 237 );
+     text-transform: uppercase;
+     line-height: 1.4;
+     
+       float:left;
+       
+   font-size:larger;
+   margin-top: 50px;
+   padding-bottom: 30px;
+   margin-right: 12px;
+       
+   }
+   .meu .nav-link:hover{
+    color: rgb( 253, 55, 82 );
+   }
+   
+   
+   .meu .nav-link{
+    
+       font-family: "Calibri";
+     color: rgb( 28, 28, 28 );
+     text-transform: uppercase;
+     line-height: 1.4;
+     text-align: center;
+     font-size: 16px;
+     margin-left: 12px;
+   }
+   
+   
+   
+   
+   .about {
+     background-color:  rgb( 237, 237, 237 );
+     width: 100%;
+     height: auto;
+     padding-top:2rem;
+     padding-bottom: 2rem;
+   }
+   .about h3 {
+     width: 100%;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color: rgb( 95, 96, 96 );
+   font-style: italic;
+   line-height: 1.4;
+   
+   
+   }
+   
+   .about p {
+   font-size: 20px;
+   font-family: "Calibri";
+   color: rgb( 95, 96, 96 );
+   line-height: 1.333;
+   text-align: justify Left;
+   
+   }
+   .about img{
+     width: 100%;
+     height: auto;
+     
+     
+     padding-bottom: 10px;
+   }
+   
+   
+   .review{
+       background-image: -moz-linear-gradient( 0deg, rgb(65,39,124) 0%, rgb(104,74,171) 100%);
+     background-image: -webkit-linear-gradient( 0deg, rgb(65,39,124) 0%, rgb(104,74,171) 100%);
+     background-image: -ms-linear-gradient( 0deg, rgb(65,39,124) 0%, rgb(104,74,171) 100%);
+     width: 100%;
+     height: auto;
+     padding-top: 20px;
+     padding-bottom: 20px;
+   }
+   .review h3{
+   
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color:white;
+   line-height: 1.4;
+   text-align: center;
+   margin-bottom: 20px;
+   }
+   
+   .review button{
+   border-radius: 0px;
+   background-color: rgb( 253, 55, 82 );
+   font-size: 17px;
+   text-transform: uppercase;
+   text-align: center;
+   width: 100%;
+   height: auto;
+   color: rgb( 254, 254, 254 );
+   font-weight: 600;
+   outline: none;
+   padding: 6px;
+   transition: .5s;
+   border: 1px solid rgb( 253, 55, 82 );
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   }
+   
+   
+   .review .or {
+   font-size: 25px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color: white;
+   text-transform: uppercase;
+   text-align: center;
+   
+   
+   }
+   
+   .free{
+       width: 100%;
+       height: auto;
+       padding-top: 3rem;
+       padding-bottom: 3rem;
+       background-color: white;
+   }
+   
+   
+   .free h3{
+       font-family: "Calibri";
+       color: rgb( 79, 79, 79 );
+       width: 100%;
+       font-weight: 500;
+       height: auto;
+   }
+   .free .style1{
+       border-top:3px solid rgb( 253, 55, 82 );
+       width: 30%;
+       margin-left: -0rem;
+       margin-top: 0px;
+   }
+   .free input[type=text], input[type=email], input[type=number]{
+       width: 100%;
+       height: auto;
+       border: 1px solid #cdcdcd;
+       padding-top: .5rem;
+       padding-bottom: .5rem;
+       padding-left: 1rem;
+       margin-bottom: 1rem;
+       outline: none;
+   }
+   .free .sel{
+       width: 100%;
+       height: auto;
+       border: 1px solid #cdcdcd;
+       padding-top: .5rem;
+       padding-bottom: .5rem;
+       padding-left: 1rem;
+       margin-bottom: 1rem;
+       outline: none;
+   }
+   .free button{
+       width: 100%;
+       height: auto;
+       border: none;
+       outline: none;
+       background-color: rgb( 253, 55, 82 );
+       color: white;
+       padding-top: .5rem;
+       padding-bottom: .5rem;
+       text-transform: uppercase;
+       font-size: 18px;
+       font-weight: 500;
+   }
+   
+  
+    .top{
+        width: 100%;
+        height: auto;
+        background-color: rgb( 44, 44, 44 );
+        padding-top: .5rem;
+        padding-bottom: .5rem;
+    }  
+   .top h5{
+       font-family: "Calibri";
+       width: 100%;
+       height: auto;
+       color: white;
+        font-size:15px !important;
+       font-weight: 300;
+   }
+   .top .ico{
+       padding: 5px;
+       border: 1px solid white;
+       background-color: transparent;
+       font-size: 13px;
+       border-radius: 50%;
+       
+   }
+   .book{
+       width: 100%;
+       height: auto;
+       padding-top: 2rem;
+       padding-bottom: 2rem;
+       background-image: -moz-linear-gradient( 0deg, rgb(65,39,124) 0%, rgb(104,74,171) 100%);
+     background-image: -webkit-linear-gradient( 0deg, rgb(65,39,124) 0%, rgb(104,74,171) 100%);
+     background-image: -ms-linear-gradient( 0deg, rgb(65,39,124) 0%, rgb(104,74,171) 100%);
+   } 
+   .book h2{
+       width: 100%;
+       height: auto;
+       color: white;
+       font-family: "Calibri" ;
+       text-align: center;
+   }
+   .book p{
+       width: 100%;
+       height: auto;
+       color: rgb( 223, 223, 223 );
+       font-family: "Calibri" ;
+       text-align: center;
+       
+   }
+   .book .flex {
+     display: flex;
+     flex-wrap: wrap;
+   
+   }
+   .book .card{
+       width: 16rem;
+       height: auto;
+       padding: 1rem;
+       background-color: transparent;
+       border: none;
+   }
+   .book .card img{
+       width: 50px;
+       height: 50px;
+   }
+   .book .card h5{
+       text-align: center;
+       color: white;
+       font-family: "Calibri" ;
+   }
+   .book .card p{
+       text-align: center;
+       color: rgb( 223, 223, 223 );
+       font-family: "Calibri" ;
+       font-size: 14px;
+       margin-top: -.5rem;
+   }
+   
+   .contact {
+       width: 100%;
+       height: auto;
+       padding-top: 2rem;
+       padding-bottom: 4rem;
+       background-color: white;
+   }
+   .contact input[type=text], input[type=email], input[type=number]{
+       width: 100%;
+       height: auto;
+       border: 1px solid #cdcdcd;
+       padding-top: .5rem;
+       padding-bottom: .5rem;
+       padding-left: 1rem;
+       margin-bottom: 1rem;
+       outline: none;
+   }
+   .contact .sel{
+       width: 100%;
+       height: auto;
+       border: 1px solid #cdcdcd;
+       padding-top: .5rem;
+       padding-bottom: .5rem;
+       padding-left: 1rem;
+       margin-bottom: 1rem;
+       outline: none;
+   }
+   .contact h3 {
+     width: 100%;
+     font-family: "Calibri" ;
+   color: rgb( 95, 96, 96 );
+   font-style: italic;
+   line-height: 1.4;
+   text-align: center;
+   font-size: 35px;
+   }
+   .contact p {
+     width: 100%;
+     font-family: "Calibri" ;
+   
+   
+   line-height: 1.4;
+   text-align: center;
+   margin-bottom: 4rem;
+   
+   }
+   .contact button{
+       width: 100%;
+       height: auto;
+       border: none;
+       outline: none;
+       background-color: rgb( 253, 55, 82 );
+       color: white;
+       padding-top: .5rem;
+       padding-bottom: .5rem;
+       text-transform: uppercase;
+       font-size: 18px;
+       font-weight: 500;
+   }
+   .contact .conn{
+       width: 100%;
+       height: auto;
+       margin-top: 2rem;
+   }
+   .contact .conn h4{
+       width: 100%;
+       height: auto;
+       font-family: "Roboto";
+       color: rgb( 29, 29, 29 );
+     font-weight: bold;
+     text-transform: uppercase;
+   }
+   .contact .conn h6{
+       width: 100%;
+       height: auto;
+       font-family: "Roboto";
+       color: rgb( 127, 127, 127 );
+   
+    
+   }
+   .contact .conn h5{
+       width: 100%;
+       height: auto;
+       font-family: "Roboto";
+       color: rgb( 76, 76, 76 );
+       font-size: 17px;
+       font-style:normal;
+       font-weight:400;
+       
+   }
+   
+   .contact .conn img{
+       width: 35px;
+       height: 35px;
+       margin-left: 1rem;
+       margin-bottom: 1rem;
+   }
+   
+   .serv{
+       width: 100%;
+       height: auto;
+       padding-top: 3rem;
+       padding-bottom: 2rem;
+       background-color: white;
+   }
+   .serv .flex {
+     display: flex;
+     flex-wrap: wrap;
+   
+   }
+   .serv .card{
+       width: 16.3rem;
+       height: auto;
+      margin-left: .5rem;
+      margin-right: .5rem;
+      padding: 1rem;
+      background-color: transparent;
+      border: 1px solid #cdcdcd;
+      margin-bottom: 2rem;
+   }
+   .serv .card img{
+       width: 50px;
+       height: 50px;
+       margin-top: 1.5rem;
+   }
+   .serv .card h5{
+       width: 100%;
+       height: auto;
+       font-family: "Calibri" ;
+       text-align: center;
+       color: rgb( 253, 55, 82 );
+       margin-top: 1rem;
+       font-weight: 600;
+   }
+   .serv .card p{
+       width: 100%;
+       height: auto;
+       font-family: "Calibri" ;
+       text-align: center;
+       color: rgb( 130, 130, 130 );
+       
+   }
+   .serv .card button{
+       width: 8rem;
+       height: auto;
+       color: white;
+       background-color: rgb( 253, 55, 82 );
+       padding-top: .3rem;
+       padding-bottom: .3rem;
+       border: none;
+       outline: none;
+       border-radius: 20px 20px 20px 20px;
+       margin-bottom: 1.5rem;
+   }
+   .serv h2 {
+     width: 100%;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color: rgb( 95, 96, 96 );
+   font-style: italic;
+   line-height: 1.4;
+   text-align: center;
+   
+   }
+   .serv p {
+     width: 100%;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color: rgb( 13, 13, 13 );
+   
+   line-height: 1.4;
+   text-align: center;
+   
+   }
+   
+   
+  
+   
+   @media screen and (max-width: 600px) {
+  .review button{
+   
+   width: 80%;
+   }
+   .top-navv{
+       display:none;
+   }
+   .top-navv-mm{
+       display:block;
+   }
+   
+}
